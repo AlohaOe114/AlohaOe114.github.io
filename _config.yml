@@ -105,4 +105,4 @@ theme: yilia-plus
 deploy:
   type: git #''
   repo: https://github.com/AlohaOe114/AlohaOe114.github.io
-  branch: gh-pages
+  branch: main
