@@ -5,10 +5,12 @@
 # Site
 title: SawedoffShotgun-Blog
 subtitle: 'Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving.  ————Albert Einstein'
-description: # 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
 keywords: #
 author: SawedoffShotgun
-language: en, zh-CN
+language:
+- en
+- zh-CN
 timezone: # ''
 
 # URL
@@ -102,5 +104,5 @@ theme: yilia-plus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git #''
-  repo: https://github.com/AlohaOe114/SawedoffShotgun-PersonalBlog.git
-  branch: [main]
+  repo: https://github.com/AlohaOe114/AlohaOe114.github.io
+  branch: gh-pages
